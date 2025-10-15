@@ -1,0 +1,1 @@
+Frontend: open public/index.html and run the React app with npm start.
